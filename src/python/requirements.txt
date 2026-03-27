@@ -1,0 +1,2 @@
+# No external runtime dependencies are required.
+# This application uses only Python standard library modules.
